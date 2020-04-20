@@ -1,2 +1,2 @@
 # recurring_transactions
-Short project based on pulling recurring transactions from OpenBanking data
+Short notebook project based on pulling recurring transactions from OpenBanking data
